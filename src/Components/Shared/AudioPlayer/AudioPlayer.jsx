@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import { VolumeUp, VolumeMute } from "react-bootstrap-icons";
-import "./AudioPlayer.scss";
+// import "./AudioPlayer.scss";
 
 const AudioPlayer = () => {
   const [isPlaying, setIsPlaying] = useState(false);
