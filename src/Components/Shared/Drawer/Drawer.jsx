@@ -20,7 +20,7 @@ const Drawer = ({ isSidebarActive, setIsSidebarActive }) => {
           <img src={logo} alt="img" className="w-100"/>
         </Link>
         <p>
-        Hey, I’m Aymane — a 19-year-old programmer from Morocco who loves turning ideas into clean, functional code and building things that actually help people.
+        Hey, I’m Aymane — a 20-year-old programmer from Morocco who loves turning ideas into clean, functional code and building things that actually help people.
         </p>
         <div className="sub__contact-left d-grid">
           <div className="sub__contac-item">

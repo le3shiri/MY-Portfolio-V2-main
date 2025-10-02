@@ -68,7 +68,7 @@ const AboutMe = ({ isTabActive }) => {
                 data-aos="fade-up"
                 data-aos-duration="500"
               >
-                I’m Aymane — a 19-year-old I’m passionate about web development and 
+                I’m Aymane — a 20-year-old I’m passionate about web development and 
                 love solving real-world
                  problems with clean, efficient code. When I’m not coding,
                  you’ll find me sharing tech tips in Darija on social media, 

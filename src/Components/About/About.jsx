@@ -56,7 +56,7 @@ const About = () => {
               data-aos-duration="1000"
             />
             <p className="descrp" data-aos="fade-up" data-aos-duration="1500">
-            Hey, I’m Aymane — a 19-year-old programmer from Morocco who loves turning ideas into clean, functional code and building things that actually help people.
+            Hey, I’m Aymane — a 20-year-old programmer from Morocco who loves turning ideas into clean, functional code and building things that actually help people.
             </p>
           </div>
           <div className="singletab">
