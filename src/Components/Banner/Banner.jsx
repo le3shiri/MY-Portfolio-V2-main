@@ -102,7 +102,7 @@ const Banner = () => {
           </ul>
         </div>
       </div>
-      <AudioPlayer />
+      {/* <AudioPlayer /> */}
     </section>
   );
 };
