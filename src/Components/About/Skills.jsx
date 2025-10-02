@@ -3,7 +3,7 @@ import personalInfothumb from "../../assets/img/about/personal-infothumb.png";
 import JavaScript from "../../assets/img/about/JavaScript.png";
 import word from "../../assets/img/about/word.png";
 import ReactJs from "../../assets/img/about/ReactJs.png";
-import php from "../../assets/img/about/Php.png";
+import php from "../../assets/img/about/PHP.png";
 
 const skillsList = [
   {
